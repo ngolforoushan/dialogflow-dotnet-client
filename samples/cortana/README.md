@@ -1,6 +1,6 @@
 # API.AI Cortana Integration Sample
 The app demostrates how to use Api.ai with a Cortana-compatible app.
-Full focs could be found on the [Api.ai Docs Page](https://docs.api.ai/v3/docs/cortana-integration).
+Full docs could be found on the [Api.ai Docs Page](https://docs.api.ai/v3/docs/cortana-integration).
 
 ## Pre-requisites
 [ApiAiSDK](https://www.nuget.org/packages/ApiAiSDK/) needs to be included in the project using Nuget.
